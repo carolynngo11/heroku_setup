@@ -15,7 +15,9 @@ The objective of this project is to create a website for note taking so that use
 Installed Node application, Insomnia application, and Heroku application.
 
 ## Usage
-(img placeholder)
+![note-taker-screenshot](https://user-images.githubusercontent.com/99929883/164588193-15601555-458a-4919-ac99-d42b29e40b78.JPG)
+Heroku link: https://pure-woodland-68012.herokuapp.com/
+
 
 ## Questions
 Have any Questions? Contact me: https://github.com/carolynngo11
