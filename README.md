@@ -1,6 +1,6 @@
 # Express.js: Note Taker
 
-[](https://img.shields.io/badge/License-MIT-success)
+![](https://img.shields.io/badge/License-MIT-success)
 
 ## Description
 The objective of this project is to create a website for note taking so that users can save and/or delete their notes.
